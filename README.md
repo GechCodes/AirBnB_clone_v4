@@ -140,8 +140,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Jegede Oluwatosin - [Github](https://github.com/Tosin567) / [Twitter](https://twitter.com/jegede_tosin)  
-Mostafa-m-desouky - [Github](https://github.com/mostafa-m-desouky)
+Gech Welechi  - [Github](https://github.com/GechCodes)
 
 <<<<<<< HEAD
 ## License
